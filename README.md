@@ -23,12 +23,12 @@ my-app/
 
 First, grab the dependencies:
 
-npm install
+    npm install
 Build the applicaiton
 
-npm run build
+    npm run build
 Then run the app like so:
 
-npm start
+    npm start
 And navigate to localhost:3000 and chat !
 
